@@ -1,0 +1,16 @@
+merchant,amount,transaction_date,description
+Starbucks,350,2026-06-01,Morning coffee
+Uber,220,2026-06-02,Ride to office
+Amazon,1499,2026-06-03,Books
+Netflix,649,2026-06-04,Monthly subscription
+Swiggy,480,2026-06-05,Lunch delivery
+Whole Foods,1250,2026-06-06,Groceries
+Apple Store,999,2026-06-07,App subscription
+Uber,180,2026-06-08,Ride back home
+Starbucks,280,2026-06-09,Afternoon coffee
+Amazon,2499,2026-06-10,Electronics
+Swiggy,320,2026-06-11,Dinner
+Netflix,649,2026-06-12,Payment
+Uber,195,2026-06-13,Airport ride
+Starbucks,420,2026-06-14,Weekend coffee
+Amazon,899,2026-06-15,Household items
