@@ -85,6 +85,7 @@ Unlike basic expense trackers, FinPilot uses a multi-agent AI system powered by 
 ![Uploading image.png…]()
 
 
+
 ## 🛠️ Tech Stack
 
 ### Backend
