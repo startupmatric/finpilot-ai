@@ -82,9 +82,7 @@ Unlike basic expense trackers, FinPilot uses a multi-agent AI system powered by 
 
 ## 🏗️ Architecture
 
-![Uploading image.png…]()
-
-
+![FinPilot system architecture — React frontend, FastAPI backend, PostgreSQL, LangGraph multi-agent system, and Groq LLM](assets/diagrams/architecture-diagram.png)
 
 ## 🛠️ Tech Stack
 
@@ -125,10 +123,7 @@ Unlike basic expense trackers, FinPilot uses a multi-agent AI system powered by 
 
 The AI system uses a multi-agent architecture with LangGraph:
 
-```
-![Uploading image.png…]()
-
-```
+![FinPilot AI workflow — query processing, intent classification, agent routing, tool execution, and response generation](assets/diagrams/ai-workflow-diagram.png)
 
 **Key AI Features:**
 - **Tool Calling**: LLM selects the right analytics tool automatically
