@@ -1,22 +1,91 @@
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# ==========================
 # Python
+# ==========================
 __pycache__/
 *.py[cod]
+*$py.class
 .pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.pyre/
 
-# Virtual env
+# ==========================
+# Virtual Environments
+# ==========================
 venv/
 .venv/
+env/
+ENV/
+env.bak/
+venv.bak/
 
-# Environment
-.env
+# ==========================
+# Build / Distribution
+# ==========================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+.Python
 
-# IDE
-.vscode/
-.idea/
-
+# ==========================
 # Database
+# ==========================
 *.db
+*.sqlite
 *.sqlite3
 
+# ==========================
 # Logs
+# ==========================
 *.log
+logs/
+
+# ==========================
+# Coverage
+# ==========================
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+.spyproject
+.spyderproject
+
+# ==========================
+# Node
+# ==========================
+node_modules/
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Temporary
+# ==========================
+*.tmp
+*.temp
+tempCodeRunnerFile.py
